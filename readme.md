@@ -1,2 +1,2 @@
 Este programa te dice hola.
-Es capaz de hablar andaluz como jaime.
+Cambios en el commit con la etiqueta v1.0
