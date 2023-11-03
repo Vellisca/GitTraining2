@@ -1,4 +1,4 @@
-const number = 6;
+const number = 5;
 let n1 = 0, n2 = 1, nextTerm;
 
 console.log('Fibonacci Series:');
